@@ -1,0 +1,225 @@
+{
+   "data":[
+      {
+         "viewType":"horizontalScroll",
+         "data":[
+           {
+               "viewType":"categoryElement",
+               "imageUrl":"/hamburger.png",
+               "title":"Burgers",
+               "subTitle":"260 Places",
+               "meta":{
+                  "bgColor":"#EF5350"
+               },
+               "action":{
+                  "type":1,
+                  "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+               }
+            },
+            {
+               "viewType":"bannerElement",
+               "imageUrl":"https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+               "title":"Buy 1 get 1 Free",
+               "action":{
+                  "type":1,
+                  "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+               }
+            },
+            {
+               "viewType":"bannerElement",
+               "imageUrl":"https://images.unsplash.com/photo-1497888329096-51c27beff665?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+               "title":"Water Licking Options",
+               "action":{
+                  "type":1,
+                  "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+               }
+            },
+            {
+               "viewType":"bannerElement",
+               "imageUrl":"https://images.unsplash.com/photo-1437750769465-301382cdf094?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+               "title":"Lip-Smacking Biryanis",
+               "action":{
+                  "type":1,
+                  "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+               }
+            },
+            {
+               "viewType":"bannerElement",
+               "imageUrl":"https://images.unsplash.com/photo-1506395308321-904a71783d60?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+               "title":"Heavenly Pizzas",
+               "action":{
+                  "type":1,
+                  "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+               }
+            }
+         ]
+      },
+      {
+         "viewType":"horizontalScroll",
+         "header":{
+            "title":"Top Categories",
+            "hasMore":true
+         },
+         "data":[
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"/hamburger.png",
+               "title":"Burgers",
+               "subTitle":"260 Places",
+               "meta":{
+                  "bgColor":"#EF5350"
+               },
+               "action":{
+                  "type":1,
+                  "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+               }
+            },
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"/noodles.png",
+               "title":"Chinese",
+               "subTitle":"142 Places",
+               "meta":{
+                  "bgColor":"#EC407A"
+               },
+               "action":{
+                  "type":1,
+                  "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+               }
+            },
+           {
+               "viewType":"bannerElement",
+               "imageUrl":"https://images.unsplash.com/photo-1478145046317-39f10e56b5e9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+               "title":"Upto 30% Off",
+               "action":{
+                  "type":1,
+                  "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+               }
+            },
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"/pizza.png",
+               "title":"Pizza",
+               "subTitle":"203 Places",
+               "meta":{
+                  "bgColor":"#5C6BC0"
+               },
+               "action":{
+                  "type":1,
+                  "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+               }
+            },
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"/tacos.png",
+               "title":"Mexican",
+               "subTitle":"40 Places",
+               "meta":{
+                  "bgColor":"#26C6DA"
+               },
+               "action":{
+                  "type":1,
+                  "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+               }
+            },
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"/ice-cream.png",
+               "title":"Ice Cream",
+               "subTitle":"110 Places",
+               "meta":{
+                  "bgColor":"#9CCC65"
+               },
+               "action":{
+                  "type":1,
+                  "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+               }
+            }
+         ]
+      },
+      {
+         "viewType":"verticalScroll",
+         "header":{
+            "title":"Popular this week",
+            "hasMore":true
+         },
+         "data":[
+            {
+               "viewType":"restaurantElement",
+               "imageUrl":"https://images.unsplash.com/photo-1496379896897-7b57622f431b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2689&q=80",
+               "title":"Starbucks",
+               "subTitle":"Beverages, Cafe",
+               "meta":{
+                  "rating":"4.0",
+                  "reviewCount":"200+",
+                  "hasFreeDelivery":true
+               },
+               "action":{
+                  "type":1,
+                  "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+               }
+            },
+            {
+               "viewType":"restaurantElement",
+               "imageUrl":"https://images.unsplash.com/photo-1571091718767-18b5b1457add?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+               "title":"Burger King",
+               "subTitle":"American, Fast Food",
+               "meta":{
+                  "rating":"3.9",
+                  "reviewCount":"5000+",
+                  "hasFreeDelivery":true
+               },
+               "action":{
+                  "type":1,
+                  "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+               }
+            },
+            {
+               "viewType":"restaurantElement",
+               "imageUrl":"https://images.unsplash.com/photo-1555126634-323283e090fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+               "title":"Mainland China",
+               "subTitle":"chinese, Oriental, Thai, Pan-Asian",
+               "meta":{
+                  "rating":"4.1",
+                  "reviewCount":"500+",
+                  "hasFreeDelivery":true
+               },
+               "action":{
+                  "type":1,
+                  "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+               }
+            },
+            {
+               "viewType":"restaurantElement",
+               "imageUrl":"https://images.unsplash.com/photo-1565299585323-38d6b0865b47?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+               "title":"Taco Bell",
+               "subTitle":"Mexican",
+               "meta":{
+                  "rating":"4.1",
+                  "reviewCount":"100+",
+                  "hasFreeDelivery":true
+               },
+               "action":{
+                  "type":1,
+                  "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+               }
+            },
+            {
+               "viewType":"restaurantElement",
+               "imageUrl":"https://images.unsplash.com/photo-1513639776629-7b61b0ac49cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+               "title":"KFC",
+               "subTitle":"Fast Food",
+               "meta":{
+                  "rating":"4.2",
+                  "reviewCount":"1000+",
+                  "hasFreeDelivery":true
+               },
+               "action":{
+                  "type":1,
+                  "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+               }
+            }
+         ]
+      }
+   ]
+}
