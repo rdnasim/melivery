@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "viewType": "horizontalScroll",
+      "header": {
+        "title": "Cuisines",
+        "hasMore": true
+      },
+      "data": [
+        {
+          "viewType": "cuisineElement",
+          "imageUrl": "/kebab.png",
+          "cuisineName": "Kebab",
+          "cuisineDetails": "",
+          "meta": {
+            "bgColor": "#EF5350",
+            "imageShape": "Circle",
+            "cardRadius": 10
+          }
+        },
+        {
+          "viewType": "cuisineElement",
+          "imageUrl": "/briyani.png",
+          "cuisineName": "Briyani",
+          "cuisineDetails": "",
+          "meta": {
+            "bgColor": "#EF5350",
+            "imageShape": "Circle",
+            "cardRadius": 10
+          }
+        }
+      ]
+    },
+    {
+      "viewType": "verticalScroll",
+      "header": {
+        "title": "Pupular Restaurant",
+        "hasMore": true
+      },
+      "data": [
+        {
+          "viewType": "restaurentElement",
+          "imageUrl": "/restaurent-1.png",
+          "restaurantTitle": "Lalbag Briyani House Dhanmondi",
+          "restaurantTag": "Bangladeshi, Rice Dishes, Briyani",
+          "restaurantTimeToServe": 25,
+          "deliveryFee": 31,
+          "meta": {
+            "bgColor": "#EF5350",
+            "imageShape": "Rectangular",
+            "cardRadius": 5
+          }
+        },
+        {
+          "viewType": "restaurentElement",
+          "imageUrl": "/restaurent-2.png",
+          "restaurantTitle": "The Courtyard at Park Heights",
+          "restaurantTag": "Fast Food",
+          "restaurantTimeToServe": 30,
+          "deliveryFee": 35,
+          "meta": {
+            "bgColor": "#EF5350",
+            "imageShape": "Rectangular",
+            "cardRadius": 5
+          }
+        }
+      ]
+    }
+  ]
+}
