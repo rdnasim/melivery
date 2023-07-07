@@ -9,7 +9,7 @@
       "data": [
         {
           "viewType": "cuisineElement",
-          "imageUrl": "/kebab.png",
+          "imageUrl": "https://github.com/rdnasim/melivery/blob/main/data/image/kebab.png",
           "cuisineName": "Kebab",
           "cuisineDetails": "",
           "meta": {
@@ -20,7 +20,7 @@
         },
         {
           "viewType": "cuisineElement",
-          "imageUrl": "/briyani.png",
+          "imageUrl": "https://github.com/rdnasim/melivery/blob/main/data/image/briyani.png",
           "cuisineName": "Briyani",
           "cuisineDetails": "",
           "meta": {
@@ -40,7 +40,7 @@
       "data": [
         {
           "viewType": "restaurentElement",
-          "imageUrl": "/restaurent-1.png",
+          "imageUrl": "https://github.com/rdnasim/melivery/blob/main/data/image/restaurant/restaurant_1.png",
           "restaurantTitle": "Lalbag Briyani House Dhanmondi",
           "restaurantTag": "Bangladeshi, Rice Dishes, Briyani",
           "restaurantTimeToServe": 25,
@@ -53,7 +53,7 @@
         },
         {
           "viewType": "restaurentElement",
-          "imageUrl": "/restaurent-2.png",
+          "imageUrl": "https://github.com/rdnasim/melivery/blob/main/data/image/restaurant/restaurant_2.png",
           "restaurantTitle": "The Courtyard at Park Heights",
           "restaurantTag": "Fast Food",
           "restaurantTimeToServe": 30,
