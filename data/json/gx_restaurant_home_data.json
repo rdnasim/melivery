@@ -94,7 +94,7 @@
       },
       "data": [
         {
-          "viewType": "restaurentElement",
+          "viewType": "restaurantElement",
           "imageUrl": "https://github.com/rdnasim/melivery/blob/main/data/image/restaurant/restaurant_1.png",
           "restaurantTitle": "Lalbag Briyani House Dhanmondi",
           "restaurantTag": "Bangladeshi, Rice Dishes, Briyani",
@@ -107,7 +107,7 @@
           }
         },
         {
-          "viewType": "restaurentElement",
+          "viewType": "restaurantElement",
           "imageUrl": "https://github.com/rdnasim/melivery/blob/main/data/image/restaurant/restaurant_2.png",
           "restaurantTitle": "The Courtyard at Park Heights",
           "restaurantTag": "Fast Food",
