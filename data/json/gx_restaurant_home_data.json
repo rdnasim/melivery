@@ -9,7 +9,7 @@
       "data": [
         {
           "viewType": "cuisineElement",
-          "imageUrl": "https://res.cloudinary.com/rdnasim/image/upload/v1689047502/professional/cuisine/kebab.png",
+          "imageUrl": "https://res.cloudinary.com/rdnasim/image/upload/v1689048879/professional/cuisine/kebab.png",
           "cuisineName": "Kebab",
           "cuisineDetails": "",
           "meta": {
@@ -20,7 +20,7 @@
         },
         {
           "viewType": "cuisineElement",
-          "imageUrl": "https://res.cloudinary.com/rdnasim/image/upload/v1689047502/professional/cuisine/briyani.png",
+          "imageUrl": "https://res.cloudinary.com/rdnasim/image/upload/v1689049249/professional/cuisine/biriyani.png",
           "cuisineName": "Briyani",
           "cuisineDetails": "",
           "meta": {
@@ -53,7 +53,7 @@
         },
         {
           "viewType": "cuisineElement",
-          "imageUrl": "https://res.cloudinary.com/rdnasim/image/upload/v1689047502/professional/cuisine/pizza.png",
+          "imageUrl": "https://res.cloudinary.com/rdnasim/image/upload/v1689049304/professional/cuisine/pizza.png",
           "cuisineName": "Pizza",
           "cuisineDetails": "",
           "meta": {
@@ -95,7 +95,7 @@
       "data": [
         {
           "viewType": "restaurantElement",
-          "imageUrl": "https://github.com/rdnasim/melivery/blob/main/data/image/restaurant/restaurant_1.png",
+          "imageUrl": "https://res.cloudinary.com/rdnasim/image/upload/v1689049609/professional/restaurant/restaurant-1.jpg",
           "restaurantTitle": "Lalbag Briyani House Dhanmondi",
           "restaurantTag": "Bangladeshi, Rice Dishes, Briyani",
           "restaurantTimeToServe": 25,
@@ -108,7 +108,7 @@
         },
         {
           "viewType": "restaurantElement",
-          "imageUrl": "https://github.com/rdnasim/melivery/blob/main/data/image/restaurant/restaurant_2.png",
+          "imageUrl": "https://res.cloudinary.com/rdnasim/image/upload/v1689049609/professional/restaurant/restaurant-2.png",
           "restaurantTitle": "The Courtyard at Park Heights",
           "restaurantTag": "Fast Food",
           "restaurantTimeToServe": 30,
