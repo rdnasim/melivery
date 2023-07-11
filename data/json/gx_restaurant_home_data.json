@@ -118,6 +118,58 @@
             "imageShape": "Rectangular",
             "cardRadius": 5
           }
+        },
+        {
+          "viewType": "restaurantElement",
+          "imageUrl": "https://res.cloudinary.com/rdnasim/image/upload/v1689049609/professional/restaurant/restaurant-3.jpg",
+          "restaurantTitle": "Crimson Cup BD - Dhanmondi North",
+          "restaurantTag": "Dessert, Cafe, Beverage",
+          "restaurantTimeToServe": 35,
+          "deliveryFee": 50,
+          "meta": {
+            "bgColor": "#EF5350",
+            "imageShape": "Rectangular",
+            "cardRadius": 5
+          }
+        },
+        {
+          "viewType": "restaurantElement",
+          "imageUrl": "https://res.cloudinary.com/rdnasim/image/upload/v1689049609/professional/restaurant/restaurant-4.png",
+          "restaurantTitle": "Waffle Up - Dhanmondi",
+          "restaurantTag": "Dessert",
+          "restaurantTimeToServe": 30,
+          "deliveryFee": 35,
+          "meta": {
+            "bgColor": "#EF5350",
+            "imageShape": "Rectangular",
+            "cardRadius": 5
+          }
+        },
+        {
+          "viewType": "restaurantElement",
+          "imageUrl": "https://res.cloudinary.com/rdnasim/image/upload/v1689049609/professional/restaurant/restaurant-5.jpg",
+          "restaurantTitle": "Tehari Ghar - Kalabagan",
+          "restaurantTag": "Rice Dishes, Biriyani",
+          "restaurantTimeToServe": 25,
+          "deliveryFee": 31,
+          "meta": {
+            "bgColor": "#EF5350",
+            "imageShape": "Rectangular",
+            "cardRadius": 5
+          }
+        },
+        {
+          "viewType": "restaurantElement",
+          "imageUrl": "https://res.cloudinary.com/rdnasim/image/upload/v1689049609/professional/restaurant/restaurant-6.png",
+          "restaurantTitle": "Takeout - Panthapath",
+          "restaurantTag": "Fast Food, Burger",
+          "restaurantTimeToServe": 30,
+          "deliveryFee": 35,
+          "meta": {
+            "bgColor": "#EF5350",
+            "imageShape": "Rectangular",
+            "cardRadius": 5
+          }
         }
       ]
     }
