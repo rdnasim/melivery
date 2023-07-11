@@ -9,7 +9,7 @@
       "data": [
         {
           "viewType": "cuisineElement",
-          "imageUrl": "https://github.com/rdnasim/melivery/blob/main/data/image/kebab.png",
+          "imageUrl": "https://res.cloudinary.com/rdnasim/image/upload/v1689047502/professional/cuisine/kebab.png",
           "cuisineName": "Kebab",
           "cuisineDetails": "",
           "meta": {
@@ -20,8 +20,63 @@
         },
         {
           "viewType": "cuisineElement",
-          "imageUrl": "https://github.com/rdnasim/melivery/blob/main/data/image/briyani.png",
+          "imageUrl": "https://res.cloudinary.com/rdnasim/image/upload/v1689047502/professional/cuisine/briyani.png",
           "cuisineName": "Briyani",
+          "cuisineDetails": "",
+          "meta": {
+            "bgColor": "#EF5350",
+            "imageShape": "Circle",
+            "cardRadius": 10
+          }
+        },
+        {
+          "viewType": "cuisineElement",
+          "imageUrl": "https://res.cloudinary.com/rdnasim/image/upload/v1689047501/professional/cuisine/hamburger.png",
+          "cuisineName": "Burgers",
+          "cuisineDetails": "",
+          "meta": {
+            "bgColor": "#EF5350",
+            "imageShape": "Circle",
+            "cardRadius": 10
+          }
+        },
+        {
+          "viewType": "cuisineElement",
+          "imageUrl": "https://res.cloudinary.com/rdnasim/image/upload/v1689047502/professional/cuisine/ice-cream.png",
+          "cuisineName": "Ice Cream",
+          "cuisineDetails": "",
+          "meta": {
+            "bgColor": "#EF5350",
+            "imageShape": "Circle",
+            "cardRadius": 10
+          }
+        },
+        {
+          "viewType": "cuisineElement",
+          "imageUrl": "https://res.cloudinary.com/rdnasim/image/upload/v1689047502/professional/cuisine/pizza.png",
+          "cuisineName": "Pizza",
+          "cuisineDetails": "",
+          "meta": {
+            "bgColor": "#EF5350",
+            "imageShape": "Circle",
+            "cardRadius": 10
+          }
+        },
+        {
+          "viewType": "cuisineElement",
+          "imageUrl": "https://res.cloudinary.com/rdnasim/image/upload/v1689047502/professional/cuisine/noodles.png",
+          "cuisineName": "Noodles",
+          "cuisineDetails": "",
+          "meta": {
+            "bgColor": "#EF5350",
+            "imageShape": "Circle",
+            "cardRadius": 10
+          }
+        },
+        {
+          "viewType": "cuisineElement",
+          "imageUrl": "https://res.cloudinary.com/rdnasim/image/upload/v1689047502/professional/cuisine/tacos.png",
+          "cuisineName": "Tacos",
           "cuisineDetails": "",
           "meta": {
             "bgColor": "#EF5350",
